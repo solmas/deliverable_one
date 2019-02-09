@@ -1,0 +1,7 @@
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe.config
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.pdb
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csprojAssemblyReference.cache
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csproj.CoreCompileInputs.cache
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.exe
+C:\GrandCircus\Unit1\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.pdb
